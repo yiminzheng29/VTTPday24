@@ -1,0 +1,3 @@
+Create a new database and input the details into application.properties.
+Include the DockerFile
+Create tables as per screenshot in the folder
